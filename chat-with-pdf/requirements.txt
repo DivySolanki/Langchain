@@ -1,0 +1,8 @@
+cassio
+datasets
+langchain
+langchain_experimental
+openai
+tiktoken
+llamaapi
+python_dotenv
