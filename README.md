@@ -17,6 +17,15 @@ PDF Interaction: Extract meaningful responses from PDF files using the Llama2 AP
 Database Storage: Utilize CassandraDB, a vector store database, to efficiently store and manage the extracted information.
 Text Embeddings: Leverage HuggingFaceEmbeddings to embed text, enhancing the overall processing capabilities.
 
+### 3. Blog Generation App
+
+Dive into the world of effortless content creation with our Blog Generation App. This application simplifies the blogging process—just provide the topic, the intended audience, and the desired length, and let the magic happen. The underlying code not only streamlines the content generation but also demonstrates the utilization of locally stored Language Model (LLM) models through CTransformers. Powered by the LLama 2 API, this project offers a seamless and efficient way to generate engaging blog content.
+
+Project Features:
+Intuitive Blogging: Create engaging blog content with minimal input – just specify the topic, audience, and desired length.
+Local LLM Models: Explore the method of using locally stored Language Model (LLM) models using CTransformers.
+LLama 2 Integration: Leverage the LLama 2 API to enhance the efficiency and capabilities of the blog generation process.
+
 Explore individual project folders to find detailed instructions and code samples.
 
 Happy coding! 🚀
