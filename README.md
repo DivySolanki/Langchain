@@ -26,7 +26,7 @@ Intuitive Blogging: Create engaging blog content with minimal input – just spe
 Local LLM Models: Explore the method of using locally stored Language Model (LLM) models using CTransformers.
 LLama 2 Integration: Leverage the LLama 2 API to enhance the efficiency and capabilities of the blog generation process.
 
-## 4. Chat to DataBase
+### 4. Chat to DataBase
 
 Experience the simplicity of querying a database without the need for SQL expertise with our innovative Chat to DataBase project. This project empowers users to interact with a MySQL database using straightforward questions, making database queries accessible to everyone. By incorporating the Google Palm LLM and leveraging a few-shot training method along with prompt templates, the project ensures an intuitive and user-friendly interaction. Dive into the details by exploring the code in the experiment.ipynb file, and run the main project effortlessly using the main.py file.
 
